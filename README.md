@@ -46,6 +46,8 @@ Prestigio MultiPhone 5504 Duo | [Download](https://mega.nz/#F!o51TzDTS!vQQHiIHeM
 Xiaomi Redmi Note 3G | [Download](https://mega.nz/#F!ZlclnRja!KnKIXNyMWjwk8l49-EZObw) | [View](https://github.com/hejsekvojtech/android_device_xiaomi_lcsh92_wet_jb9)
 Lenovo S860 | [Download](https://mega.nz/#F!l1cCiK7a!ceCZ82LQKNJ3Uq-RrWehgQ) | [View](https://github.com/hejsekvojtech/android_device_lenovo_S860)
 Kingzone K1 Turbo | [Download](https://mega.nz/#F!AhcCmBBR!3nS15jsd9RyqBO2zJ9Bxxw) | [View](https://github.com/hejsekvojtech/android_device_kingzone_K1_turbo)
+LG G3 Stylus | [Download](https://mega.nz/#F!k5UXGTzR!m-Oum0ZWX20ocUbSbi-1sA) | [View](https://github.com/hejsekvojtech/android_device_lge_b2lss)
+HTC Desire 816G | [Download](https://mega.nz/#F!Q5kXQDTB!KmpR_z7whGaUgG6mZOdewA) | [View](https://github.com/hejsekvojtech/android_device_htc_htc_a5mgp_dug)
 
 ## Credits
 Credits goes to the following folks and organizations:
