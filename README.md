@@ -4,16 +4,22 @@
 
 > TWRP is an open source, community project. A custom recovery is used for installing custom software on your device.
 > This custom software can include smaller modifications like rooting your device or even replacing
-> the firmware of the device with a completely custom "ROM" like LineageOS.
+> the firmware of the device with a completely custom "ROM" like LineageOS or OmniROM.
 
-## Changelog:
+## Important notice
+
+**_All recoveries listed below can be flashed at your own risk. I am not responsible for bootlooping or bricking
+your phone. If you have some doubts, you can ask me [here](https://www.facebook.com/liquidporting/)_**
+
+## Changelog
+* For v3.1.1-0
   * Backups will now include adopted storage keys (Dees_Troy)
   * Fixed an adb restore issue (bigbiff)
   * Fixed rebooting when no OS is present (Dees_Troy)
   * Fixed line wrapping in the GUI terminal (_that)
-  * Updated TWRP source code to AOSP 7.1.2 (Dees_Troy)﻿
+  * Updated TWRP source code to AOSP 7.1.2 (Dees_Troy)
 
-## Downloads:
+## Downloads & Device trees
 
 Device               | Download links       | Device tree
 --------------------:|:--------------------:|:--------------------
@@ -40,3 +46,12 @@ Prestigio MultiPhone 5504 Duo | [Download](https://mega.nz/#F!o51TzDTS!vQQHiIHeM
 Xiaomi Redmi Note 3G | [Download](https://mega.nz/#F!ZlclnRja!KnKIXNyMWjwk8l49-EZObw) | [View](https://github.com/hejsekvojtech/android_device_xiaomi_lcsh92_wet_jb9)
 Lenovo S860 | [Download](https://mega.nz/#F!l1cCiK7a!ceCZ82LQKNJ3Uq-RrWehgQ) | [View](https://github.com/hejsekvojtech/android_device_lenovo_S860)
 Kingzone K1 Turbo | [Download](https://mega.nz/#F!AhcCmBBR!3nS15jsd9RyqBO2zJ9Bxxw) | [View](https://github.com/hejsekvojtech/android_device_kingzone_K1_turbo)
+
+## Credits
+Credits goes to the following folks and organizations:
+* Team Win - provided TWRP source
+* Ethan Yonker aka Dees_Troy - created TWRP recovery
+* OmniROM - there it all began
+* Liquid Porting And Development - maintaining legacy MediaTek based devices
+* Dušan Bartoš - maintainer of Z520 and A536
+* Vojtěch Hejsek - maintaining the rest of devices
